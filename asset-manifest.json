@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/watermarkhook/static/css/main.576c68e8.chunk.css",
+    "main.js": "/watermarkhook/static/js/main.991ceda3.chunk.js",
+    "main.js.map": "/watermarkhook/static/js/main.991ceda3.chunk.js.map",
+    "runtime-main.js": "/watermarkhook/static/js/runtime-main.b101fdb4.js",
+    "runtime-main.js.map": "/watermarkhook/static/js/runtime-main.b101fdb4.js.map",
+    "static/js/2.fb72a71b.chunk.js": "/watermarkhook/static/js/2.fb72a71b.chunk.js",
+    "static/js/2.fb72a71b.chunk.js.map": "/watermarkhook/static/js/2.fb72a71b.chunk.js.map",
+    "static/js/3.376d80f1.chunk.js": "/watermarkhook/static/js/3.376d80f1.chunk.js",
+    "static/js/3.376d80f1.chunk.js.map": "/watermarkhook/static/js/3.376d80f1.chunk.js.map",
+    "index.html": "/watermarkhook/index.html",
+    "static/css/main.576c68e8.chunk.css.map": "/watermarkhook/static/css/main.576c68e8.chunk.css.map",
+    "static/js/2.fb72a71b.chunk.js.LICENSE.txt": "/watermarkhook/static/js/2.fb72a71b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/watermarkhook/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b101fdb4.js",
+    "static/js/2.fb72a71b.chunk.js",
+    "static/css/main.576c68e8.chunk.css",
+    "static/js/main.991ceda3.chunk.js"
+  ]
+}
