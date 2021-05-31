@@ -1,4 +1,3 @@
-### Deployment of my 370 final project
 ### This is not a source code folder, avoid plagiarism! 
 
 **Controls:**
