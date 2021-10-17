@@ -1,4 +1,4 @@
-### This is not a source code folder, avoid plagiarism! 
+### 370 final project Example This is not a source code folder, avoid plagiarism! 
 
 **Controls:**
 
